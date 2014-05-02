@@ -1,0 +1,40 @@
+body
+{
+    background-color: #333;
+}
+
+.button
+{
+    color: #333;
+    background-color: #fff;
+    border: none;
+}
+
+.title
+{
+    color: #fff;
+    font-family: Helvetica;
+    font-weight: 700;
+    font-size: 200%;
+}
+
+.subtitle
+{
+    color: #fff;
+    font-family: Helvetica;
+    font-weight: 500;
+    font-size: 150%;
+}
+
+.formDiv
+{
+    height: auto;
+}
+
+.text
+{
+    color: #acacac;
+    font-family: Helvetica;
+    font-weight: 100;
+    font-size: 100%
+}
